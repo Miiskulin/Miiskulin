@@ -19,27 +19,16 @@ Welcome to my profile!
   <img align="center" alt="Misk-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
 
-
-##
-
-<img align="right" alt="Alien-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948315306793787498/1034631516346650634/Alien.gif">
-
+<br/>
 <br/>
 
 <div>
 <a href="https://www.linkedin.com/in/pedro-henrique-miskulin-de-toledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
+<img alt="Alien-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948315306793787498/1034631516346650634/Alien.gif">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
 
