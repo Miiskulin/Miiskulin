@@ -17,8 +17,10 @@ Welcome to my profile!
   <img align="center" alt="Misk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Misk-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Misk-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="right"  alt="Alien-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948315306793787498/1034631516346650634/Alien.gif">
 </div>
 
+<br/>
 <br/>
 <br/>
 
@@ -28,7 +30,6 @@ Welcome to my profile!
 
 ##
 
-<img alt="Alien-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948315306793787498/1034631516346650634/Alien.gif">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
