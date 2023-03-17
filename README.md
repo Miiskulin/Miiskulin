@@ -11,8 +11,6 @@ Welcome to my profile!
 ➝ ☕ Coffe lover
 
 <br/>
-<img align="right"  alt="Alien-pic" height="150" style=""border-radius:60px" src="https://cdn.discordapp.com/attachments/948315306793787498/1034631516346650634/Alien.gif">
-<br/>
 
 <div style="display: inline_block">
   <img align="center" alt="Misk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +22,6 @@ Welcome to my profile!
   
 </div>
 
-<br/>
 <br/>
 
 ##
@@ -38,6 +35,4 @@ My social:
 
 ##
 
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
