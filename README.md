@@ -19,6 +19,7 @@ Welcome to my profile!
   <img align="center" alt="Misk-NODEJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Misk-PHP" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Misk-PostgreeSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Misk-Git" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
   
 </div>
