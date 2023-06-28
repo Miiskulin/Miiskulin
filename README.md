@@ -1,8 +1,7 @@
-<h2>Hi, I’m Misk! 🙋‍♂️</h2>
-<p>Welcome to my profile!</p>
-<p>➝ 👨‍💻 Currently working with system analysis</p>
+<h2>Hi, i’m Misk! Welcome to my profile! 🙋‍♂️</h2>
+<p>➝ 👨‍💻 Currently migrating from system analysis for full stack development</p>
 <p>➝ 💙 Technology and innovation lover</p>
-<p>➝ 📚 Here you'll find my study projects</p>
+<p>➝ 📚 Here you'll find my study and professional projects</p>
 <p>➝ ☕ Coffe lover</p>
 <br/>
 <br/>
