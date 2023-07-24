@@ -1,10 +1,11 @@
-<h2>Hi, i’m Misk! Welcome to my profile! 🙋‍♂️</h2>
-<p>➝ 👨‍💻 Currently migrating from system analysis for full stack development</p>
-<p>➝ 💙 Technology and innovation lover</p>
-<p>➝ 📚 Here you'll find my study and professional projects</p>
-<p>➝ ☕ Coffe lover</p>
-<br/>
-<br/>
+<div>
+  <h2>Hi, i’m Misk! Welcome to my profile! 🙋‍♂️</h2>
+  <p>➝ 👨‍💻 Currently migrating from system analysis for full stack development</p>
+  <p>➝ 💙 Technology and innovation lover</p>
+  <p>➝ 📚 Here you'll find my study and professional projects</p>
+  <p>➝ ☕ Coffe lover</p>
+</div>
+</br>
 <h3 align="center">Some of the technologies that i ever had been contact...</h3>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Misk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -17,12 +18,4 @@
   <img align="center" alt="Misk-PHP" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img align="center" alt="Misk-PostgreeSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Misk-Git" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- 
 </div>
-<br/>
-<div>
-<h2>My social:<h2>
-<a href="https://www.linkedin.com/in/pedro-henrique-miskulin-de-toledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
