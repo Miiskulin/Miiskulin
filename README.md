@@ -1,7 +1,7 @@
 <div>
   <h2>Hi, i’m Misk! Welcome to my profile! 🙋‍♂️</h2>
-  <p>➝ 👨‍💻 Currently migrating from system analysis for full stack development</p>
-  <p>➝ 💙 Technology and innovation lover</p>
+  <p>➝ 👨‍💻 Systems Analyst with a focus on Infrastructure and DevOps </p>
+  <p>➝ 💙 Technology and innovation </p>
   <p>➝ 📚 Here you'll find my study and professional projects</p>
   <p>➝ ☕ Coffe lover</p>
 </div>
