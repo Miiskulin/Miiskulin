@@ -1,6 +1,6 @@
 <div>
   <h2>Hi, i’m Misk! Welcome to my profile! 🙋‍♂️</h2>
-  <p>➝ 👨‍💻 Systems Analyst with a focus on Infrastructure and DevOps </p>
+  <p>➝ 👨‍💻 Infrastructure analyst and DevOps engineer </p>
   <p>➝ 💙 Technology and innovation </p>
   <p>➝ 📚 Here you'll find my study and professional projects</p>
   <p>➝ ☕ Coffe lover</p>
